@@ -1,0 +1,1 @@
+cmd_/home/rahul/Linux_Device_Drivers/module_parameters/main.mod := { echo  /home/rahul/Linux_Device_Drivers/module_parameters/main.o;  echo; } > /home/rahul/Linux_Device_Drivers/module_parameters/main.mod

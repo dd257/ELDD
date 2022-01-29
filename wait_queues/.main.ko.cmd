@@ -1,0 +1,1 @@
+cmd_/home/rahul/Linux_Device_Drivers/wait_queues/main.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/rahul/Linux_Device_Drivers/wait_queues/main.ko /home/rahul/Linux_Device_Drivers/wait_queues/main.o /home/rahul/Linux_Device_Drivers/wait_queues/main.mod.o;  true

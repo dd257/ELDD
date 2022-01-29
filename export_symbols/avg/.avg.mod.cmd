@@ -1,0 +1,1 @@
+cmd_/home/rahul/Linux_Device_Drivers/export_symbols/avg/avg.mod := { echo  /home/rahul/Linux_Device_Drivers/export_symbols/avg/avg.o;  echo; } > /home/rahul/Linux_Device_Drivers/export_symbols/avg/avg.mod

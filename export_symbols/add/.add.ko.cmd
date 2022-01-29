@@ -1,0 +1,1 @@
+cmd_/home/rahul/Linux_Device_Drivers/export_symbols/add/add.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/rahul/Linux_Device_Drivers/export_symbols/add/add.ko /home/rahul/Linux_Device_Drivers/export_symbols/add/add.o /home/rahul/Linux_Device_Drivers/export_symbols/add/add.mod.o;  true

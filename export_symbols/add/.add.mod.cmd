@@ -1,0 +1,1 @@
+cmd_/home/rahul/Linux_Device_Drivers/export_symbols/add/add.mod := { echo  /home/rahul/Linux_Device_Drivers/export_symbols/add/add.o;  echo; } > /home/rahul/Linux_Device_Drivers/export_symbols/add/add.mod
